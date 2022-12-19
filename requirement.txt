@@ -1,2 +1,6 @@
 tensorflow
 sklearn
+pandas
+numpy
+matplotlib
+plotly
